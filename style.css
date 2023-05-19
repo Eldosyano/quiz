@@ -4,7 +4,11 @@ body{
     background-size: cover;
     padding: 0px;
 }
-
+@media screen and (max-width: 900px){
+    body{
+        background-size: auto;
+    }
+}
 
 #quizWrap {
     max-width: 600px;
