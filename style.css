@@ -4,7 +4,7 @@ body{
     background-size: cover;
     padding: 0px;
 }
-@media screen and (max-width: 900px,min-width: 0px){
+@media screen and (max-width: 900px, min-width: 0px){
     body{
         background-size: auto;
     }
